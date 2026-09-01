@@ -77,3 +77,40 @@
 - `:target`
 - `:lang()`
 - `:fullscreen`
+## Q8. What is the syntax of the <img> tag in HTML?
+- ```<img src="image.jpg" alt="Description of image">```
+## Q9. What is the difference between WHERE and HAVING?
+- WHERE filters individual rows before grouping or aggregation.
+- HAVING filters groups after GROUP BY and aggregation.
+## Q10. What is the difference between display: none and visibility: hidden?
+- display: none, completely removes the element from the page's layout.
+- visibility: hidden, makes the element invisible but keeps its space in the layout.
+## Q11. How can you view the tables in a database using psql?
+- \dt
+## Q12. How many rem is 100px?
+- 6.25 rem, 1rem=16px
+## Q13. What are the different types of CSS units?
+- CSS units are mainly divided into two categories:
+    
+    ### 1. Absolute Units
+    
+    Absolute units have a fixed size.
+    
+    - `px` — Pixels
+    - `pt` — Points
+    - `pc` — Picas
+    - `cm` — Centimeters
+    - `mm` — Millimeters
+    - `in` — Inches
+    ### 1. Relative Units
+    
+    Absolute units have a fixed size.
+    
+    - `em` — Relative to the font size of the element
+    - `rem` — Relative to the root (html) font size
+    - `ch` — Relative to the width of the 0 character
+    - `ex` — Relative to the x-height of the font
+    - `vw` — 1% of the viewport width
+    - `vh` — 1% of the viewport height
+    - `vmin` — 1% of the smaller viewport dimension
+    - `vmax` — 1% of the larger viewport dimension
