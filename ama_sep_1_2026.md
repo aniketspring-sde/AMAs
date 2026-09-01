@@ -19,3 +19,61 @@
 - <p>Hello World</p>, in this, <p></p> these are tag. 
 - An HTML element is the complete structure consisting of the opening tag, content, and usually the closing tag.
 - <p>Hello World</p> , the entire thing is element.
+## Q5. Which clause is used for sorting data in SQL?
+- ORDER BY
+## Q6. What is difference between align-items and align-content in CSS?
+- align-items controls how individual flex items are aligned along the cross axis.
+- align-content controls the spacing and positioning of multiple flex lines.
+## Q7. What are the different types of pseudo-classes in CSS?
+- A pseudo-class in CSS is a keyword added to a selector to specify a special state or condition of an HTML element.
+  ## CSS Pseudo-classes
+
+### 1. User Interaction
+- `:hover`
+- `:active`
+- `:focus`
+- `:focus-visible`
+- `:focus-within`
+
+### 2. Links
+- `:link`
+- `:visited`
+
+### 3. Form States
+- `:checked`
+- `:disabled`
+- `:enabled`
+- `:required`
+- `:optional`
+- `:valid`
+- `:invalid`
+- `:read-only`
+- `:read-write`
+- `:placeholder-shown`
+
+### 4. Child / Structural
+- `:first-child`
+- `:last-child`
+- `:only-child`
+- `:nth-child()`
+- `:nth-last-child()`
+
+### 5. Type-based
+- `:first-of-type`
+- `:last-of-type`
+- `:only-of-type`
+- `:nth-of-type()`
+- `:nth-last-of-type()`
+
+### 6. Logical / Selector
+- `:not()`
+- `:is()`
+- `:where()`
+- `:has()`
+
+### 7. Document / General
+- `:root`
+- `:empty`
+- `:target`
+- `:lang()`
+- `:fullscreen`
